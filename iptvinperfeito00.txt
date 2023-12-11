@@ -1,0 +1,186 @@
+
+
+#EXTM3U
+#EXTINF:-1,24 Hour Free Movies	
+https://spi-filmstream-1-eu.rakuten.wurl.tv/1200.m3u8
+#EXTINF:-1,AMC en Español
+https://d38fxgxhpllpfu.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4w47pf3x50sko/07877ade-de1f-4d7f-87b5-267b1dfe7df4/2.m3u8
+#EXTINF:-1,Cowboy Way	
+https://d2ut3ojckf8pd6.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-vof68cktqxo2s-ssai-prd/363bd310-02f7-41fa-9900-b4fb3d2d4ec2/0.m3u8
+#EXTINF:-1,4UV	
+https://d8nvujimbgz9s.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-8ns94oiyg2tko/67f247d3-910b-4b19-a107-e0af58c80991/3.m3u8
+#EXTINF:-1,24 Hour Free Movies	
+https://spi-filmstream-1-eu.rakuten.wurl.tv/1200.m3u8
+#EXTINF:-1,CINEVAULT: Westerns	
+https://e7300fca01d348dea7b8f35f2721cc48.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_CinevaultWesterns/837b2a85-1937-4c6a-8b88-8f371ed45441/1.m3u8
+#EXTINF:-1,CINEVAULT: 80's
+https://fb9770c9cf584d64b3c5e3a26637d5ec.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_Cinevault80s/26ec7432-0622-4955-b85e-dac1f182d1fb/1.m3u8
+#EXTINF:-1,CINEVAULT: Classics 
+https://40f8d33f8895435f9e63aa829c93bba0.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung_CinevaultClassics/fa8463af-fd26-496d-91bc-10e11bdc762f/1.m3u8
+#EXTINF:-1,Gravitas Movies
+https://ddniyunj92pl0.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2amrzf32ny10z/a657ba71-ee85-4914-9084-f37bda34ea9f/2.m3u8
+#EXTINF:-1,IMPACT Wrestling	
+https://d3mwqwqfak7y2q.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/ImpactWrestling-prod/8671b4ae-2df2-44e5-b857-4c026bcb3417/0.m3u8
+#EXTINF:-1,Backstage
+https://d1w5xedouwkj5i.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-m8rzyzewdp4tz-prod/c82a398a-e12e-4f45-8507-edd28f43e1b3/3.m3u8
+#EXTINF:-1,Shades of Black	
+https://d27lgnqmtw3am2.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-wolxt6iszzx86-prod/54cd80f7-9e57-4c45-8669-f54c92edd446/3.m3u8
+#EXTINF:-1,FilmRise Free Movies	
+https://i.mjh.nz/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_samsungtvplus-ams-aws/021bd6e7-f3f3-493a-bdae-0b6e08e2dbfd/5.m3u8
+#EXTINF:-1,The Hallmark Channel
+https://d3l10ju7ii2sha.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-301fj9dsme11n/a066009b-d40a-4303-9bf4-8abf6371370f/3.m3u8
+#EXTINF:-1,
+
+#EXTINF:-1,Sony Canal Comedias
+https://d05f9c4e535042b78e6de94ef5548e4a.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_SonyCanalComedias-2/986a6666-1515-41c7-9fd9-3366a92ab91c/2.m3u8
+#EXTINF:-1,Cine Romántico 
+https://d2gjhy8g9ziabr.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/ee6eed16-e7c1-4f19-8ef2-16ba5d63f0eb/5.m3u8
+#EXTINF:-1,MyTime Movie Network
+https://d30rdo6js703m8.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a3v4423go6bpp-ssai-prd/8f9c82b4-731c-47b0-833c-17bf3eb06099/3.m3u8
+#EXTINF:-1,The Movie Hub		
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmhub/CDN/1280x720_5000000/index.m3u8
+#EXTINF:-1,Hollywire	
+https://di1slo8304ver.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bg9yxt784ebvh-ssai-prd/b56a0952-49de-4b02-acb1-bfc3c01a60a3/0.m3u8
+#EXTINF:-1,FailArmy	
+https://2383afee096b4dc499922dcf79ba9cfa.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_FailArmy/1d26b8ef-75e8-48d5-ba6d-3f7ed68e0e63/2.m3u8
+#EXTINF:-1,Maverick Black Cinema 
+https://995059ba59a44c949b7b00ce255a4861.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_MaverickBlackCinema/8572b237-6ac0-4a66-bd17-97fbc8564c53/2.m3u8
+#EXTINF:-1,Sic Online	
+https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index_4.m3u8
+#EXTINF:-1,Detetive do Filme 	
+https://dai.google.com/linear/hls/pa/event/OYH9J7rZSK2fabKXWAYcfA/stream/85e9338f-e37f-45c9-95ed-c170f1001545:GRQ/variant/5c3544f222702b76668c9f6cd44a3118/bandwidth/4500000.m3u8
+#EXTINF:-1,TV MAX
+https://59f1cbe63db89.streamlock.net:1443/tvmax/_definst_/tvmax/chunklist_w681654246.m3u8
+#EXTINF:-1,Runtime Ação	
+https://stream.ads.ottera.tv/cl/231210clqtqcns75mgrt76ecpg/1280x720_3071200_0_f.m3u8?i=728_2552
+#EXTINF:-1,Moviesphere Brazil
+https://amg00353-lionsgatestudio-moviespherebrazil-runtimelatam-qb7mk.amagi.tv/playlist/amg00353-lionsgatestudio-moviespherebrazil-runtimelatam/cb563b196577619098cd2167d1f862ffa65928d80b6c852a6ab454876da64607d1e3b680fd358b785d9f01de6a1a0a080361cf12ce3407c3c76ad91174204213cfcac9229d86170ab5c60c2c3aab016635837209c0790a79dca93d0d8636ba304530e01b615b37c2ec5bad6852db80148b6f4adafb8c2360625f5c98435ee3b24aa4ffe10e4d8a6aa3ac154f922c58e683179cc94def80d246cf41d572f647ce95f48cda15e037a0598c6f4fcee339521ce3e249a78b3586d5887d2c9b7024346f3f8486a68e82b81b25393addead9b075fa69bfe19b52a756c96ab95d833f8468a305afe40cd1c5090d85204bc6940a1b4181f3a583e93a79d70c93f6bc8d2631c9a6452a04a13fa9e70518e3fc2830a4ba3ffad46862c228bd72adb4508992a286a09c84599e2ac4fd39f9574d636c1e0b8a51a3d53895799d309fc71d25535a57edb46184d7891060390fb18950824740f9c3ddd7964e1ada70175fdf65db700c7883613f2bab7eafda7447a11227a9797df7513e8502dbbd2ffea892a52533a7d1ca47b03ebde54482b852e73d7c6a03b5f33e560a192e87a0355b420ca92fd3dac4e5781e13aca69d8ca77d0c4768471c5cf1a18d16bc81cf2e1113bb230568661f1a93449b29e809470421de0d91cb2d71960d3522f6ad5d040274f7ee50a0b51c77891f5f9da72a16e87c0f/98/1920x1080_4715744/index.m3u8
+#EXTINF:-1,Sony Brasil
+https://f9387554367349db8374885adb2d48cf.mediatailor.us-east-1.amazonaws.com/v1/manifest/0fb304b2320b25f067414d481a779b77db81760d/Samsung-br_SonyOneEmocoes/d6cdab3c-16d6-47a2-8ab4-014f3c10ca84/2.m3u8
+#EXTINF:-1,Grjngo brasil
+https://amogonetworx-grjngo-1-eu.plex.wurl.tv/4300.m3u8
+#EXTINF:-1,Grjngo 	
+https://amogonetworx-grjngo-1-eu.plex.wurl.tv/4300.m3u8	
+#EXTINF:-1,MyTime Movie Network Brasil	
+https://appletree-mytime-samsungbrazil.amagi.tv/playlist720p.m3u8
+#EXTINF:-1,Classique Western brasil
+https://stmv1.srvif.com/classiquew/classiquew/chunklist_w828835097.m3u8
+#EXTINF:-1,Sony	
+https://d1r94zrwa3gnlo.cloudfront.net/livestore103/stream/hls/279/279-3-main.m3u8
+#EXTINF:-1,A Babá: O Chamado das Sombras (Dublado) - 2021 	
+https://m3u8.vg/playlist.m3u8?server=RCFServer5&subfolder=ondemand&vid=c0hIMEQ5M1pWRlVjRkRoZzkzOUd6d1RqcXZsQUxoUE1Ddz09
+#EXTINF:-1,A Viuva das Sombras 2021		
+https://m3u8.vg/playlist.m3u8?server=RCFServer5&subfolder=ondemand&vid=c0hIMEQ5M1pWRlFWR3poZzQzZFIxZ1A0cXY5Qk1BPT0=
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
